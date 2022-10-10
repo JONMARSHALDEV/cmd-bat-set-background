@@ -14,6 +14,7 @@ see details:
 https://www.quora.com/How-do-I-make-a-bat-file-to-change-the-Windows-background-to-a-picture-of-my-choosing
 
 =====================
+
 also try:
 Group Policy
 Run the Local Group Policy Editor (gpedit.msc) and position to Computer Configuration > Administrative Templates > Control Panel > Personalization. Set "Force a specific default lock screen and logon image" to Enabled, enter the path to the image, and click OK.
